@@ -1,0 +1,8 @@
+node_modules
+dist
+.cache
+.superpowers
+package-lock.json
+playwright-report
+test-results
+supabase/.temp
